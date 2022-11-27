@@ -6,4 +6,4 @@ Welcome to the Laravel Bootcamp! In this guide we will walk through building a m
 
 ### Chriper!
 
-- [Deployed Chirper](https://chirper-bootcamp.site/)
+- [Deployed Chirper](http://www.chirper-bootcamp.site/)
